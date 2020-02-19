@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deviget in Kotlin</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="empty_error_title">There is nothing here</string>
+    <string name="empty_error_content">Pull to refresh latest posts</string>
+    <string name="item_time">%1$d %2$s ago</string>
+    <string name="item_moment">a moment ago</string>
+    <string name="item_comments">%1$d comments</string>
+</resources>

@@ -84,9 +84,9 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-.idea/*
-.DS_Store
 gradle/
 gradlew
 gradlew.bat
 gradle.properties
+
+.idea/

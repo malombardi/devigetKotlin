@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="m_1">8dp</dimen>
+    <dimen name="m_2">16dp</dimen>
+    <dimen name="m_3">24dp</dimen>
+    <dimen name="m_4">32dp</dimen>
+    <dimen name="m_5">40dp</dimen>
+    <dimen name="m_6">48dp</dimen>
+    <dimen name="thumbnail_size">180dp</dimen>
+    <dimen name="image_size">260dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="description_size">18sp</dimen>
+    <dimen name="time_text_size">14sp</dimen>
+</resources>
